@@ -4,3 +4,4 @@ Notes/
 .venv/
 .ipynb_checkpoints/
 data/
+__pycache__/e
