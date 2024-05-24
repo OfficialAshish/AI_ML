@@ -1,0 +1,6 @@
+*test*
+Notes/
+.vscode/
+.venv/
+.ipynb_checkpoints/
+data/
